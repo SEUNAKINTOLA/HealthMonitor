@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HealthMonitor</string>
+    <string name="welcomeMessage">Welcome!\nOpen the side drawer to explore the sample queries.</string>
+    <string name="selectAll">All Results</string>
+    <string name="selectAllLow">All Low Results</string>
+    <string name="selectAllHigh">All High Results</string>
+    <string name="selectA">Results for This Month</string>
+    <string name="selectB">Results for Morning</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
